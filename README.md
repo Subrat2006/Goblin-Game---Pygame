@@ -14,7 +14,4 @@ pip install pygame
 To download the file, click on this link:
 https://drive.google.com/file/d/1WcH5WsnAFZc0tA1bsekVzIDoDvl0zPu1/view?usp=sharing
 
-For Codes, click on the link below:
-```
-https://github.com/Subrat2006/Goblin-Game---Pygame/blob/main/Goblin%20Game/Goblin%20game.py
-```
+You will find the above file in the documents section of this repository too! You can see the Python file there
