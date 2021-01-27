@@ -8,4 +8,4 @@ pip install pygame
 ```
 Write this in your terminal or write this your powershell or Command Prompt.
 
-<img src = ""></img>
+<img src = "1.png"></img>
