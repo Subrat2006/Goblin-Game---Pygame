@@ -1,4 +1,4 @@
-# Goblin-Game---Pygame
+# Goblin Game - Pygame
 This game is a basic game on Pygame. You all can understand the working of the game or copy the codes. The basic necesities are:
 ```
 Python
